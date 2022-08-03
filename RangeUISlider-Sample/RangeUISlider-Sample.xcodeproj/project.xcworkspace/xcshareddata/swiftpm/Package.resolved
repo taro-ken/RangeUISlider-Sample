@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "rangeuislider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chicio/RangeUISlider.git",
+      "state" : {
+        "revision" : "3bf6a1dd377ffb9837c7f1c9b6f451f4a82acd8b",
+        "version" : "3.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
